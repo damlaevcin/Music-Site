@@ -1,0 +1,36 @@
+.menu {
+    background-color: #333c3f;
+    height: 50px;
+}
+
+
+.menu-list ul li a:hover {
+    color: #bebebe;
+}
+
+.menu-list ul li {
+    list-style: none;
+    display: inline;
+    line-height: 50px;
+    margin: 10px;
+}
+
+.menu-list ul li a {
+    text-decoration: none;
+    color: #a1a1a1;
+}
+.price{
+ background-color: #828a8d;  
+ color: #ffffff; 
+ border-radius: 5px;
+}
+body{
+    background-color: #E9ECEF;
+}
+.product-title{
+    color: rgb(151, 45, 223);
+}
+.homepage-a{
+    text-decoration: none;
+    color: #333c3f;
+}
